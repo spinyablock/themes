@@ -265,11 +265,11 @@ div.icon-39rdLt {
 }
 
 .panel-2ZFCRb.activityPanel-9icbyU {
-    height: 20;
+    height: 0;
 }
 
 .panel-2ZFCRb.activityPanel-9icbyU>.body-1FrnJD {
-    position: fixed;
+    position: left;
 }
 
 [class^=UserDetails]>* {
